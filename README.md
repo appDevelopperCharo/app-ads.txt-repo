@@ -1,2 +1,2 @@
-# app-ads.txt-repo
+# app-ads.txt
 app-ads.txt-repo
